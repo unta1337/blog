@@ -1,17 +1,14 @@
-/* Fira Code: https://github.com/tonsky/FiraCode */
-@import url('https://cdn.staticdelivr.com/gfonts/css2?family=Fira+Code:wght@300..700&display=swap');
-
 @font-face {
-  font-family: 'Sarasa Term K';
+  font-family: 'Sarasa Term K Nerd Font';
   font-style: normal;
   font-weight: 300;
-  src: url(https://blog.unta.cc/sarasa/SarasaTermK-Regular.ttf);
+  src: url(https://blog.unta.cc/sarasa/sarasa-term-k-regular-nerd-font.woff2) format('woff2');
 }
 @font-face {
-  font-family: 'Sarasa Term K';
+  font-family: 'Sarasa Term K Nerd Font';
   font-style: normal;
   font-weight: 700;
-  src: url(https://blog.unta.cc/sarasa/SarasaTermK-Bold.ttf);
+  src: url(https://blog.unta.cc/sarasa/sarasa-term-k-bold-nerd-font.woff2) format('woff2');
 }
 
 :root {
@@ -37,9 +34,7 @@ html {
 
 body {
   font-family:
-    "Sarasa Term K",
-    "Fira Code",
-    "JetBrains Mono",
+    "Sarasa Term K Nerd Font",
     Monaco,
     Consolas,
      "Ubuntu Mono",
@@ -265,9 +260,7 @@ ol li {
 code,
 kbd {
   font-family:
-    "Sarasa Term K",
-    "Fira Code",
-    "JetBrains Mono",
+    "Sarasa Term K Nerd Font",
     Monaco,
     Consolas,
     Ubuntu Mono,
