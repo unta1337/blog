@@ -7,3 +7,4 @@ katex: true
 ---
 [algo](/index/algo)  
 [boj](/index/boj)
+[misc](/index/misc)
