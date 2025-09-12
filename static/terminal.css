@@ -12,9 +12,9 @@
 }
 
 :root {
-  --background: #f7f4ff;
-  --foreground: #403352;
-  --accent: #6f49ab;
+  --background: #ffffff;
+  --foreground: #000000;
+  --accent: #000000;
   --radius: 0;
   --font-size: 1rem;
   --line-height: 1.54em;
