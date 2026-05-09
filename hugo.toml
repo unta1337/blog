@@ -134,3 +134,7 @@ style = 'vs'
           identifier = "index"
           name = "index"
           url = "/index/index"
+
+[caches]
+    [caches.images]
+        dir = ':cacheDir/images'

@@ -2,13 +2,13 @@
   font-family: 'Sarasa Term K Nerd Font';
   font-style: normal;
   font-weight: 300;
-  src: url(https://blog.unta.cc/sarasa/sarasa-term-k-regular-nerd-font.woff2) format('woff2');
+  src: url(http://192.168.0.15/blog/sarasa/sarasa-term-k-regular-nerd-font.woff2) format('woff2');
 }
 @font-face {
   font-family: 'Sarasa Term K Nerd Font';
   font-style: normal;
   font-weight: 700;
-  src: url(https://blog.unta.cc/sarasa/sarasa-term-k-bold-nerd-font.woff2) format('woff2');
+  src: url(http://192.168.0.15/blog/sarasa/sarasa-term-k-bold-nerd-font.woff2) format('woff2');
 }
 
 :root {
