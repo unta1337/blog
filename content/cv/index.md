@@ -58,6 +58,22 @@ _{{< html >}}- <a target="blank" href="https://github.com/rexim">Alexey Kutepov<
 {{< /html >}}
 
 # # 학력
+{{< html >}}<h2 style="display: inline">광주과학기술원</h2>{{< /html >}} 2026.03.-
+{{< html >}}<hr style="height: 2px;">{{< /html >}}
+**AI융합학부 1학년 재학 중**
+{{< html >}}
+<table class="no-border">
+    <tr class="no-border">
+        <th class="no-border text-right">소속</th>
+        <td class="no-border"><a href="https://iit.gist.ac.kr/medrobotics/">Intelligent Medical Robotics Laboratory</a></td>
+    </tr>
+    <tr class="no-border">
+        <th class="no-border text-right">지도 교수</th>
+        <td class="no-border">윤정원</td>
+    </tr>
+</table>
+{{< /html >}}
+
 {{< html >}}<h2 style="display: inline">한국기술교육대학교</h2>{{< /html >}} 2020.03.-2026.02.  
 {{< html >}}<hr style="height: 2px;">{{< /html >}}
 **컴퓨터공학부 4학년 재학 중** (졸업예정)  
